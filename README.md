@@ -1,2 +1,2 @@
-# front_end_learning_notes
-记录前端各种知识点的笔记
+# front_end_interview_learning_notes
+记录前端各种面试知识点的笔记
